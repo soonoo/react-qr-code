@@ -64,7 +64,7 @@
     "jsdom": "^12.2.0",
     "jsdom-global": "^3.0.2",
     "mocha": "^5.2.0",
-    "react": "^16.5.2",
+    "react": "16.6.1",
     "react-art-svg-renderer": "^0.0.1-rc.8",
     "react-dom": "^16.5.2",
     "react-native": "^0.57.3",
