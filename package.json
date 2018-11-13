@@ -68,7 +68,7 @@
     "react-art-svg-renderer": "^0.0.1-rc.8",
     "react-dom": "^16.6.2",
     "react-native": "^0.57.3",
-    "react-test-renderer": "^16.5.2",
+    "react-test-renderer": "^16.6.2",
     "rimraf": "^2.5.3"
   }
 }
