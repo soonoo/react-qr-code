@@ -64,7 +64,7 @@
     "jsdom": "^13.1.0",
     "jsdom-global": "^3.0.2",
     "mocha": "^6.0.0",
-    "react": "^16.7.0",
+    "react": "16.8.2",
     "react-dom": "^16.7.0",
     "react-native": "^0.58.4",
     "react-test-renderer": "^16.7.0",
